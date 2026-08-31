@@ -1,0 +1,10 @@
+{
+  "name": "Sazón",
+  "description": "Asistente culinario y organizador inteligente de despensa, menú del día, recetas, lista de compra, escaneo de tickets y gastos del hogar.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
